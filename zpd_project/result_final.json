@@ -1,0 +1,1628 @@
+[
+ {
+  "ID": "52562",
+  "Formula": "(Ag1.5 Cu0.5) In2 Te4",
+  "Cell_length_A": "6.3879",
+  "Cell_length_C": "12.5969",
+  "Element_0": "Ag",
+  "Electronegativity_0": "1.93",
+  "Element_1": "Cu",
+  "Electronegativity_1": "1.90",
+  "Element_2": "In",
+  "Electronegativity_2": "1.78",
+  "Element_3": "Te",
+  "Electronegativity_3": "2.1",
+  "Ionic_radius_()": [
+   null
+  ],
+  "Ionic_radius_0": [
+   1.0
+  ],
+  "Ionic_radius_1": [
+   0.6
+  ],
+  "Ionic_radius_2": [
+   0.62
+  ],
+  "Ionic_radius_3": []
+ },
+ {
+  "ID": "28744",
+  "Formula": "Ag Al S2",
+  "Cell_length_A": "5.695(5)",
+  "Cell_length_C": "10.26(1)",
+  "Element_0": "Ag",
+  "Electronegativity_0": "1.93",
+  "Element_1": "Al",
+  "Electronegativity_1": "1.61",
+  "Element_2": "S",
+  "Electronegativity_2": "2.58",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   1.0
+  ],
+  "Ionic_radius_1": [
+   0.39
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "28745",
+  "Formula": "Ag Al Se2",
+  "Cell_length_A": "5.956(5)",
+  "Cell_length_C": "10.75(1)",
+  "Element_0": "Ag",
+  "Electronegativity_0": "1.93",
+  "Element_1": "Al",
+  "Electronegativity_1": "1.61",
+  "Element_2": "Se",
+  "Electronegativity_2": "2.55",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   1.0
+  ],
+  "Ionic_radius_1": [
+   0.39
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "28746",
+  "Formula": "Ag Al Te2",
+  "Cell_length_A": "6.296(5)",
+  "Cell_length_C": "11.83(1)",
+  "Element_0": "Ag",
+  "Electronegativity_0": "1.93",
+  "Element_1": "Al",
+  "Electronegativity_1": "1.61",
+  "Element_2": "Te",
+  "Electronegativity_2": "2.1",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   1.0
+  ],
+  "Ionic_radius_1": [
+   0.39
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "56263",
+  "Formula": "Ag Fe S2",
+  "Cell_length_A": "5.66",
+  "Cell_length_C": "10.3",
+  "Element_0": "Ag",
+  "Electronegativity_0": "1.93",
+  "Element_1": "Fe",
+  "Electronegativity_1": "1.83",
+  "Element_2": "S",
+  "Electronegativity_2": "2.58",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   1.0
+  ],
+  "Ionic_radius_1": [
+   0.49
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "250110",
+  "Formula": "Ag (Ga0.665 In0.335) Se2",
+  "Cell_length_A": "6.0138(11)",
+  "Cell_length_C": "11.1238(18)",
+  "Element_0": "Ag",
+  "Electronegativity_0": "1.93",
+  "Element_1": "Ga",
+  "Electronegativity_1": "1.81",
+  "Element_2": "In",
+  "Electronegativity_2": "1.78",
+  "Element_3": "Se",
+  "Electronegativity_3": "2.55",
+  "Ionic_radius_()": [
+   null
+  ],
+  "Ionic_radius_0": [
+   1.0
+  ],
+  "Ionic_radius_1": [
+   0.47
+  ],
+  "Ionic_radius_2": [
+   0.62
+  ],
+  "Ionic_radius_3": []
+ },
+ {
+  "ID": "250111",
+  "Formula": "Ag (Ga0.82 In0.18) Se2",
+  "Cell_length_A": "5.9889(9)",
+  "Cell_length_C": "11.0328(22)",
+  "Element_0": "Ag",
+  "Electronegativity_0": "1.93",
+  "Element_1": "Ga",
+  "Electronegativity_1": "1.81",
+  "Element_2": "In",
+  "Electronegativity_2": "1.78",
+  "Element_3": "Se",
+  "Electronegativity_3": "2.55",
+  "Ionic_radius_()": [
+   null
+  ],
+  "Ionic_radius_0": [
+   1.0
+  ],
+  "Ionic_radius_1": [
+   0.47
+  ],
+  "Ionic_radius_2": [
+   0.62
+  ],
+  "Ionic_radius_3": []
+ },
+ {
+  "ID": "42125",
+  "Formula": "Ag Ga S2",
+  "Cell_length_A": "5.754",
+  "Cell_length_C": "10.295",
+  "Element_0": "Ag",
+  "Electronegativity_0": "1.93",
+  "Element_1": "Ga",
+  "Electronegativity_1": "1.81",
+  "Element_2": "S",
+  "Electronegativity_2": "2.58",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   1.0
+  ],
+  "Ionic_radius_1": [
+   0.47
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "28748",
+  "Formula": "Ag Ga Se2",
+  "Cell_length_A": "5.973(5)",
+  "Cell_length_C": "10.88(1)",
+  "Element_0": "Ag",
+  "Electronegativity_0": "1.93",
+  "Element_1": "Ga",
+  "Electronegativity_1": "1.81",
+  "Element_2": "Se",
+  "Electronegativity_2": "2.55",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   1.0
+  ],
+  "Ionic_radius_1": [
+   0.47
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "28749",
+  "Formula": "Ag Ga Te2",
+  "Cell_length_A": "6.288(5)",
+  "Cell_length_C": "11.94(1)",
+  "Element_0": "Ag",
+  "Electronegativity_0": "1.93",
+  "Element_1": "Ga",
+  "Electronegativity_1": "1.81",
+  "Element_2": "Te",
+  "Electronegativity_2": "2.1",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   1.0
+  ],
+  "Ionic_radius_1": [
+   0.47
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "71007",
+  "Formula": "Ag Ga Te2",
+  "Cell_length_A": "6.30(2)",
+  "Cell_length_C": "11.94(7)",
+  "Element_0": "Ag",
+  "Electronegativity_0": "1.93",
+  "Element_1": "Ga",
+  "Electronegativity_1": "1.81",
+  "Element_2": "Te",
+  "Electronegativity_2": "2.1",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   1.0
+  ],
+  "Ionic_radius_1": [
+   0.47
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "28750",
+  "Formula": "Ag In S2",
+  "Cell_length_A": "5.816(5)",
+  "Cell_length_C": "11.17(1)",
+  "Element_0": "Ag",
+  "Electronegativity_0": "1.93",
+  "Element_1": "In",
+  "Electronegativity_1": "1.78",
+  "Element_2": "S",
+  "Electronegativity_2": "2.58",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   1.0
+  ],
+  "Ionic_radius_1": [
+   0.62
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "28751",
+  "Formula": "Ag In Se2",
+  "Cell_length_A": "6.090(5)",
+  "Cell_length_C": "11.67(1)",
+  "Element_0": "Ag",
+  "Electronegativity_0": "1.93",
+  "Element_1": "In",
+  "Electronegativity_1": "1.78",
+  "Element_2": "Se",
+  "Electronegativity_2": "2.55",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   1.0
+  ],
+  "Ionic_radius_1": [
+   0.62
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "28752",
+  "Formula": "Ag In Te2",
+  "Cell_length_A": "6.406(5)",
+  "Cell_length_C": "12.56(1)",
+  "Element_0": "Ag",
+  "Electronegativity_0": "1.93",
+  "Element_1": "In",
+  "Electronegativity_1": "1.78",
+  "Element_2": "Te",
+  "Electronegativity_2": "2.1",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   1.0
+  ],
+  "Ionic_radius_1": [
+   0.62
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "92126",
+  "Formula": "Ag In Te2",
+  "Cell_length_A": "6.262(3)",
+  "Cell_length_C": "12.897(2)",
+  "Element_0": "Ag",
+  "Electronegativity_0": "1.93",
+  "Element_1": "In",
+  "Electronegativity_1": "1.78",
+  "Element_2": "Te",
+  "Electronegativity_2": "2.1",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   1.0
+  ],
+  "Ionic_radius_1": [
+   0.62
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "28733",
+  "Formula": "Cu Al S2",
+  "Cell_length_A": "5.312(5)",
+  "Cell_length_C": "10.42(1)",
+  "Element_0": "Al",
+  "Electronegativity_0": "1.61",
+  "Element_1": "Cu",
+  "Electronegativity_1": "1.90",
+  "Element_2": "S",
+  "Electronegativity_2": "2.58",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.39
+  ],
+  "Ionic_radius_1": [
+   0.6
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "42124",
+  "Formula": "Cu Al S2",
+  "Cell_length_A": "5.3336",
+  "Cell_length_C": "10.444",
+  "Element_0": "Al",
+  "Electronegativity_0": "1.61",
+  "Element_1": "Cu",
+  "Electronegativity_1": "1.90",
+  "Element_2": "S",
+  "Electronegativity_2": "2.58",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.39
+  ],
+  "Ionic_radius_1": [
+   0.6
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "28734",
+  "Formula": "Cu Al Se2",
+  "Cell_length_A": "5.617(5)",
+  "Cell_length_C": "10.922(10)",
+  "Element_0": "Al",
+  "Electronegativity_0": "1.61",
+  "Element_1": "Cu",
+  "Electronegativity_1": "1.90",
+  "Element_2": "Se",
+  "Electronegativity_2": "2.55",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.39
+  ],
+  "Ionic_radius_1": [
+   0.6
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "28735",
+  "Formula": "Cu Al Te2",
+  "Cell_length_A": "5.976(5)",
+  "Cell_length_C": "11.804(10)",
+  "Element_0": "Al",
+  "Electronegativity_0": "1.61",
+  "Element_1": "Cu",
+  "Electronegativity_1": "1.90",
+  "Element_2": "Te",
+  "Electronegativity_2": "2.1",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.39
+  ],
+  "Ionic_radius_1": [
+   0.6
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "44111",
+  "Formula": "Be C N2",
+  "Cell_length_A": "3.71",
+  "Cell_length_C": "7.272",
+  "Element_0": "Be",
+  "Electronegativity_0": "1.57",
+  "Element_1": "C",
+  "Electronegativity_1": "2.55",
+  "Element_2": "N",
+  "Electronegativity_2": "3.04",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.27
+  ],
+  "Ionic_radius_1": [
+   0.15
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "44112",
+  "Formula": "Be Si N2",
+  "Cell_length_A": "4.1",
+  "Cell_length_C": "8.364",
+  "Element_0": "Be",
+  "Electronegativity_0": "1.57",
+  "Element_1": "N",
+  "Electronegativity_1": "3.04",
+  "Element_2": "Si",
+  "Electronegativity_2": "1.90",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.27
+  ],
+  "Ionic_radius_1": [],
+  "Ionic_radius_2": [
+   0.26
+  ],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "42098",
+  "Formula": "Cd Ge As2",
+  "Cell_length_A": "5.9432(1)",
+  "Cell_length_C": "11.2163(3)",
+  "Element_0": "As",
+  "Electronegativity_0": "2.18",
+  "Element_1": "Cd",
+  "Electronegativity_1": "1.69",
+  "Element_2": "Ge",
+  "Electronegativity_2": "2.01",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [],
+  "Ionic_radius_1": [
+   0.78
+  ],
+  "Ionic_radius_2": [
+   0.39
+  ],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "153593",
+  "Formula": "Cd Ge As2",
+  "Cell_length_A": "5.944(1)",
+  "Cell_length_C": "11.211(2)",
+  "Element_0": "As",
+  "Electronegativity_0": "2.18",
+  "Element_1": "Cd",
+  "Electronegativity_1": "1.69",
+  "Element_2": "Ge",
+  "Electronegativity_2": "2.01",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [],
+  "Ionic_radius_1": [
+   0.78
+  ],
+  "Ionic_radius_2": [
+   0.39
+  ],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "42895",
+  "Formula": "Cd Ge P2",
+  "Cell_length_A": "5.74",
+  "Cell_length_C": "10.775",
+  "Element_0": "Cd",
+  "Electronegativity_0": "1.69",
+  "Element_1": "Ge",
+  "Electronegativity_1": "2.01",
+  "Element_2": "P",
+  "Electronegativity_2": "2.19",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.78
+  ],
+  "Ionic_radius_1": [
+   0.39
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "44260",
+  "Formula": "Cd Si P2",
+  "Cell_length_A": "5.678",
+  "Cell_length_C": "10.436",
+  "Element_0": "Cd",
+  "Electronegativity_0": "1.69",
+  "Element_1": "P",
+  "Electronegativity_1": "2.19",
+  "Element_2": "Si",
+  "Electronegativity_2": "1.90",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.78
+  ],
+  "Ionic_radius_1": [],
+  "Ionic_radius_2": [
+   0.26
+  ],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "43358",
+  "Formula": "Cd Sn As2",
+  "Cell_length_A": "6.093(1)",
+  "Cell_length_C": "11.936(1)",
+  "Element_0": "As",
+  "Electronegativity_0": "2.18",
+  "Element_1": "Cd",
+  "Electronegativity_1": "1.69",
+  "Element_2": "Sn",
+  "Electronegativity_2": "1.96",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [],
+  "Ionic_radius_1": [
+   0.78
+  ],
+  "Ionic_radius_2": [
+   0.55
+  ],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "44258",
+  "Formula": "Cd Sn As2",
+  "Cell_length_A": "6.094",
+  "Cell_length_C": "11.92",
+  "Element_0": "As",
+  "Electronegativity_0": "2.18",
+  "Element_1": "Cd",
+  "Electronegativity_1": "1.69",
+  "Element_2": "Sn",
+  "Electronegativity_2": "1.96",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [],
+  "Ionic_radius_1": [
+   0.78
+  ],
+  "Ionic_radius_2": [
+   0.55
+  ],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "44257",
+  "Formula": "Cd Sn P2",
+  "Cell_length_A": "5.9",
+  "Cell_length_C": "11.517",
+  "Element_0": "Cd",
+  "Electronegativity_0": "1.69",
+  "Element_1": "P",
+  "Electronegativity_1": "2.19",
+  "Element_2": "Sn",
+  "Electronegativity_2": "1.96",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.78
+  ],
+  "Ionic_radius_1": [],
+  "Ionic_radius_2": [
+   0.55
+  ],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "44259",
+  "Formula": "Cd Sn Sb2",
+  "Cell_length_A": "6.479",
+  "Cell_length_C": "12.764",
+  "Element_0": "Cd",
+  "Electronegativity_0": "1.69",
+  "Element_1": "Sb",
+  "Electronegativity_1": "2.05",
+  "Element_2": "Sn",
+  "Electronegativity_2": "1.96",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.78
+  ],
+  "Ionic_radius_1": [],
+  "Ionic_radius_2": [
+   0.55
+  ],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "28734",
+  "Formula": "Cu Al Se2",
+  "Cell_length_A": "5.617(5)",
+  "Cell_length_C": "10.922(10)",
+  "Element_0": "Al",
+  "Electronegativity_0": "1.61",
+  "Element_1": "Cu",
+  "Electronegativity_1": "1.90",
+  "Element_2": "Se",
+  "Electronegativity_2": "2.55",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.39
+  ],
+  "Ionic_radius_1": [
+   0.6
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "2518",
+  "Formula": "Cu Fe S2",
+  "Cell_length_A": "5.289(1)",
+  "Cell_length_C": "10.423(1)",
+  "Element_0": "Cu",
+  "Electronegativity_0": "1.90",
+  "Element_1": "Fe",
+  "Electronegativity_1": "1.83",
+  "Element_2": "S",
+  "Electronegativity_2": "2.58",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.57
+  ],
+  "Ionic_radius_1": [
+   0.63
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "30289",
+  "Formula": "Cu Fe S2",
+  "Cell_length_A": "5.25",
+  "Cell_length_C": "10.32",
+  "Element_0": "Cu",
+  "Electronegativity_0": "1.90",
+  "Element_1": "Fe",
+  "Electronegativity_1": "1.83",
+  "Element_2": "S",
+  "Electronegativity_2": "2.58",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.57
+  ],
+  "Ionic_radius_1": [
+   0.63
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "80094",
+  "Formula": "Cu Fe S2",
+  "Cell_length_A": "5.2864(8)",
+  "Cell_length_C": "10.4102(8)",
+  "Element_0": "Cu",
+  "Electronegativity_0": "1.90",
+  "Element_1": "Fe",
+  "Electronegativity_1": "1.83",
+  "Element_2": "S",
+  "Electronegativity_2": "2.58",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.57
+  ],
+  "Ionic_radius_1": [
+   0.63
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "80095",
+  "Formula": "Cu Fe S2",
+  "Cell_length_A": "5.277(7)",
+  "Cell_length_C": "10.441(3)",
+  "Element_0": "Cu",
+  "Electronegativity_0": "1.90",
+  "Element_1": "Fe",
+  "Electronegativity_1": "1.83",
+  "Element_2": "S",
+  "Electronegativity_2": "2.58",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.57
+  ],
+  "Ionic_radius_1": [
+   0.63
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "74459",
+  "Formula": "Cu (Ga0.2 In0.8) Te2",
+  "Cell_length_A": "6.1531(1)",
+  "Cell_length_C": "12.3073(9)",
+  "Element_0": "Cu",
+  "Electronegativity_0": "1.90",
+  "Element_1": "Ga",
+  "Electronegativity_1": "1.81",
+  "Element_2": "In",
+  "Electronegativity_2": "1.78",
+  "Element_3": "Te",
+  "Electronegativity_3": "2.1",
+  "Ionic_radius_()": [
+   null
+  ],
+  "Ionic_radius_0": [
+   0.6
+  ],
+  "Ionic_radius_1": [
+   0.47
+  ],
+  "Ionic_radius_2": [
+   0.62
+  ],
+  "Ionic_radius_3": []
+ },
+ {
+  "ID": "74458",
+  "Formula": "Cu (Ga0.5 In0.5) Te2",
+  "Cell_length_A": "6.1009(2)",
+  "Cell_length_C": "12.1979(6)",
+  "Element_0": "Cu",
+  "Electronegativity_0": "1.90",
+  "Element_1": "Ga",
+  "Electronegativity_1": "1.81",
+  "Element_2": "In",
+  "Electronegativity_2": "1.78",
+  "Element_3": "Te",
+  "Electronegativity_3": "2.1",
+  "Ionic_radius_()": [
+   null
+  ],
+  "Ionic_radius_0": [
+   0.6
+  ],
+  "Ionic_radius_1": [
+   0.47
+  ],
+  "Ionic_radius_2": [
+   0.62
+  ],
+  "Ionic_radius_3": []
+ },
+ {
+  "ID": "74457",
+  "Formula": "Cu (Ga0.8 In0.2) Te2",
+  "Cell_length_A": "6.0543(1)",
+  "Cell_length_C": "12.0379(4)",
+  "Element_0": "Cu",
+  "Electronegativity_0": "1.90",
+  "Element_1": "Ga",
+  "Electronegativity_1": "1.81",
+  "Element_2": "In",
+  "Electronegativity_2": "1.78",
+  "Element_3": "Te",
+  "Electronegativity_3": "2.1",
+  "Ionic_radius_()": [
+   null
+  ],
+  "Ionic_radius_0": [
+   0.6
+  ],
+  "Ionic_radius_1": [
+   0.47
+  ],
+  "Ionic_radius_2": [
+   0.62
+  ],
+  "Ionic_radius_3": []
+ },
+ {
+  "ID": "42126",
+  "Formula": "Cu Ga S2",
+  "Cell_length_A": "5.351",
+  "Cell_length_C": "10.48",
+  "Element_0": "Cu",
+  "Electronegativity_0": "1.90",
+  "Element_1": "Ga",
+  "Electronegativity_1": "1.81",
+  "Element_2": "S",
+  "Electronegativity_2": "2.58",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.6
+  ],
+  "Ionic_radius_1": [
+   0.47
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "66864",
+  "Formula": "Cu Ga S2",
+  "Cell_length_A": "5.34741(7)",
+  "Cell_length_C": "10.47429(6)",
+  "Element_0": "Cu",
+  "Electronegativity_0": "1.90",
+  "Element_1": "Ga",
+  "Electronegativity_1": "1.81",
+  "Element_2": "S",
+  "Electronegativity_2": "2.58",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.6
+  ],
+  "Ionic_radius_1": [
+   0.47
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "41809",
+  "Formula": "Cu Ga Se2",
+  "Cell_length_A": "5.614(1)",
+  "Cell_length_C": "11.022(1)",
+  "Element_0": "Cu",
+  "Electronegativity_0": "1.90",
+  "Element_1": "Ga",
+  "Electronegativity_1": "1.81",
+  "Element_2": "Se",
+  "Electronegativity_2": "2.55",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.6
+  ],
+  "Ionic_radius_1": [
+   0.47
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "42097",
+  "Formula": "Cu Ga Se2",
+  "Cell_length_A": "5.5963(1)",
+  "Cell_length_C": "11.0036(2)",
+  "Element_0": "Cu",
+  "Electronegativity_0": "1.90",
+  "Element_1": "Ga",
+  "Electronegativity_1": "1.81",
+  "Element_2": "Se",
+  "Electronegativity_2": "2.55",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.6
+  ],
+  "Ionic_radius_1": [
+   0.47
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "67591",
+  "Formula": "Cu Ga Te2",
+  "Cell_length_A": "6.02348(7)",
+  "Cell_length_C": "11.93979(2)",
+  "Element_0": "Cu",
+  "Electronegativity_0": "1.90",
+  "Element_1": "Ga",
+  "Electronegativity_1": "1.81",
+  "Element_2": "Te",
+  "Electronegativity_2": "2.1",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.6
+  ],
+  "Ionic_radius_1": [
+   0.47
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "74456",
+  "Formula": "Cu Ga Te2",
+  "Cell_length_A": "6.0235(1)",
+  "Cell_length_C": "11.9398(2)",
+  "Element_0": "Cu",
+  "Electronegativity_0": "1.90",
+  "Element_1": "Ga",
+  "Electronegativity_1": "1.81",
+  "Element_2": "Te",
+  "Electronegativity_2": "2.1",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.6
+  ],
+  "Ionic_radius_1": [
+   0.47
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "42127",
+  "Formula": "Cu In S2",
+  "Cell_length_A": "5.523",
+  "Cell_length_C": "11.12",
+  "Element_0": "Cu",
+  "Electronegativity_0": "1.90",
+  "Element_1": "In",
+  "Electronegativity_1": "1.78",
+  "Element_2": "S",
+  "Electronegativity_2": "2.58",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.6
+  ],
+  "Ionic_radius_1": [
+   0.62
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "66865",
+  "Formula": "Cu In S2",
+  "Cell_length_A": "5.52279(7)",
+  "Cell_length_C": "11.13295(22)",
+  "Element_0": "Cu",
+  "Electronegativity_0": "1.90",
+  "Element_1": "In",
+  "Electronegativity_1": "1.78",
+  "Element_2": "S",
+  "Electronegativity_2": "2.58",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.6
+  ],
+  "Ionic_radius_1": [
+   0.62
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "68334",
+  "Formula": "Cu In Se2",
+  "Cell_length_A": "5.784",
+  "Cell_length_C": "11.57",
+  "Element_0": "Cu",
+  "Electronegativity_0": "1.90",
+  "Element_1": "In",
+  "Electronegativity_1": "1.78",
+  "Element_2": "Se",
+  "Electronegativity_2": "2.55",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.6
+  ],
+  "Ionic_radius_1": [
+   0.62
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "70051",
+  "Formula": "Cu In Se2",
+  "Cell_length_A": "5.782(1)",
+  "Cell_length_C": "11.620(1)",
+  "Element_0": "Cu",
+  "Electronegativity_0": "1.90",
+  "Element_1": "In",
+  "Electronegativity_1": "1.78",
+  "Element_2": "Se",
+  "Electronegativity_2": "2.55",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.6
+  ],
+  "Ionic_radius_1": [
+   0.62
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "73351",
+  "Formula": "Cu In Se2",
+  "Cell_length_A": "5.7810(13)",
+  "Cell_length_C": "11.6422(26)",
+  "Element_0": "Cu",
+  "Electronegativity_0": "1.90",
+  "Element_1": "In",
+  "Electronegativity_1": "1.78",
+  "Element_2": "Se",
+  "Electronegativity_2": "2.55",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.6
+  ],
+  "Ionic_radius_1": [
+   0.62
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "92043",
+  "Formula": "Cu In Se Te",
+  "Cell_length_A": "5.987(1)",
+  "Cell_length_C": "11.979(4)",
+  "Element_0": "Cu",
+  "Electronegativity_0": "1.90",
+  "Element_1": "In",
+  "Electronegativity_1": "1.78",
+  "Element_2": "Se",
+  "Electronegativity_2": "2.55",
+  "Element_3": "Te",
+  "Electronegativity_3": "2.1",
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.6
+  ],
+  "Ionic_radius_1": [
+   0.62
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": []
+ },
+ {
+  "ID": "73352",
+  "Formula": "Cu In Te2",
+  "Cell_length_A": "6.1944(20)",
+  "Cell_length_C": "12.4157(40)",
+  "Element_0": "Cu",
+  "Electronegativity_0": "1.90",
+  "Element_1": "In",
+  "Electronegativity_1": "1.78",
+  "Element_2": "Te",
+  "Electronegativity_2": "2.1",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.6
+  ],
+  "Ionic_radius_1": [
+   0.62
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "74460",
+  "Formula": "Cu In Te2",
+  "Cell_length_A": null,
+  "Cell_length_C": null,
+  "Element_0": "Cu",
+  "Electronegativity_0": "1.90",
+  "Element_1": "In",
+  "Electronegativity_1": "1.78",
+  "Element_2": "Te",
+  "Electronegativity_2": "2.1",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.6
+  ],
+  "Ionic_radius_1": [
+   0.62
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "28742",
+  "Formula": "Cu Tl S2",
+  "Cell_length_A": "5.591(5)",
+  "Cell_length_C": "11.193(10)",
+  "Element_0": "Cu",
+  "Electronegativity_0": "1.90",
+  "Element_1": "S",
+  "Electronegativity_1": "2.58",
+  "Element_2": "Tl",
+  "Electronegativity_2": "1.62",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.6
+  ],
+  "Ionic_radius_1": [],
+  "Ionic_radius_2": [
+   0.75
+  ],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "28743",
+  "Formula": "Cu Tl Se2",
+  "Cell_length_A": "5.844(5)",
+  "Cell_length_C": "11.623(10)",
+  "Element_0": "Cu",
+  "Electronegativity_0": "1.90",
+  "Element_1": "Se",
+  "Electronegativity_1": "2.55",
+  "Element_2": "Tl",
+  "Electronegativity_2": "1.62",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.6
+  ],
+  "Ionic_radius_1": [],
+  "Ionic_radius_2": [
+   0.75
+  ],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "280226",
+  "Formula": "Al Li Te2",
+  "Cell_length_A": "6.3517(4)",
+  "Cell_length_C": "11.6904(9)",
+  "Element_0": "Al",
+  "Electronegativity_0": "1.61",
+  "Element_1": "Li",
+  "Electronegativity_1": "0.98",
+  "Element_2": "Te",
+  "Electronegativity_2": "2.1",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.39
+  ],
+  "Ionic_radius_1": [
+   0.59
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "56532",
+  "Formula": "Li In Se2",
+  "Cell_length_A": "5.807(8)",
+  "Cell_length_C": "11.810(31)",
+  "Element_0": "In",
+  "Electronegativity_0": "1.78",
+  "Element_1": "Li",
+  "Electronegativity_1": "0.98",
+  "Element_2": "Se",
+  "Electronegativity_2": "2.55",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.62
+  ],
+  "Ionic_radius_1": [
+   0.59
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "59112",
+  "Formula": "Li In Te2",
+  "Cell_length_A": "6.398(2)",
+  "Cell_length_C": "12.460(4)",
+  "Element_0": "In",
+  "Electronegativity_0": "1.78",
+  "Element_1": "Li",
+  "Electronegativity_1": "0.98",
+  "Element_2": "Te",
+  "Electronegativity_2": "2.1",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.62
+  ],
+  "Ionic_radius_1": [
+   0.59
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "66007",
+  "Formula": "Li P N2",
+  "Cell_length_A": "4.575(2)",
+  "Cell_length_C": "7.118(3)",
+  "Element_0": "Li",
+  "Electronegativity_0": "0.98",
+  "Element_1": "N",
+  "Electronegativity_1": "3.04",
+  "Element_2": "P",
+  "Electronegativity_2": "2.19",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.59
+  ],
+  "Ionic_radius_1": [],
+  "Ionic_radius_2": [
+   0.17
+  ],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "44110",
+  "Formula": "Mg C N2",
+  "Cell_length_A": "4.11",
+  "Cell_length_C": "7.562",
+  "Element_0": "C",
+  "Electronegativity_0": "2.55",
+  "Element_1": "Mg",
+  "Electronegativity_1": "1.31",
+  "Element_2": "N",
+  "Electronegativity_2": "3.04",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.15
+  ],
+  "Ionic_radius_1": [
+   0.57
+  ],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "44109",
+  "Formula": "Mg Si N2",
+  "Cell_length_A": "4.44",
+  "Cell_length_C": "8.702",
+  "Element_0": "Mg",
+  "Electronegativity_0": "1.31",
+  "Element_1": "N",
+  "Electronegativity_1": "3.04",
+  "Element_2": "Si",
+  "Electronegativity_2": "1.90",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.57
+  ],
+  "Ionic_radius_1": [],
+  "Ionic_radius_2": [
+   0.26
+  ],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "44108",
+  "Formula": "Mg Si P2",
+  "Cell_length_A": "5.64",
+  "Cell_length_C": "11.054",
+  "Element_0": "Mg",
+  "Electronegativity_0": "1.31",
+  "Element_1": "P",
+  "Electronegativity_1": "2.19",
+  "Element_2": "Si",
+  "Electronegativity_2": "1.90",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.57
+  ],
+  "Ionic_radius_1": [],
+  "Ionic_radius_2": [
+   0.26
+  ],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "43357",
+  "Formula": "Zn Sn As2",
+  "Cell_length_A": "5.852(1)",
+  "Cell_length_C": "11.705(1)",
+  "Element_0": "As",
+  "Electronegativity_0": "2.18",
+  "Element_1": "Sn",
+  "Electronegativity_1": "1.96",
+  "Element_2": "Zn",
+  "Electronegativity_2": "1.65",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [],
+  "Ionic_radius_1": [
+   0.55
+  ],
+  "Ionic_radius_2": [
+   0.6
+  ],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "68324",
+  "Formula": "Zn Ge As2",
+  "Cell_length_A": "5.6676(5)",
+  "Cell_length_C": "11.1359(12)",
+  "Element_0": "As",
+  "Electronegativity_0": "2.18",
+  "Element_1": "Ge",
+  "Electronegativity_1": "2.01",
+  "Element_2": "Zn",
+  "Electronegativity_2": "1.65",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [],
+  "Ionic_radius_1": [
+   0.39
+  ],
+  "Ionic_radius_2": [
+   0.6
+  ],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "44261",
+  "Formula": "Zn Ge P2",
+  "Cell_length_A": "5.465",
+  "Cell_length_C": "10.766",
+  "Element_0": "Ge",
+  "Electronegativity_0": "2.01",
+  "Element_1": "P",
+  "Electronegativity_1": "2.19",
+  "Element_2": "Zn",
+  "Electronegativity_2": "1.65",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [
+   0.39
+  ],
+  "Ionic_radius_1": [],
+  "Ionic_radius_2": [
+   0.6
+  ],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "44262",
+  "Formula": "Zn Si As2",
+  "Cell_length_A": "5.61",
+  "Cell_length_C": "10.883",
+  "Element_0": "As",
+  "Electronegativity_0": "2.18",
+  "Element_1": "Si",
+  "Electronegativity_1": "1.90",
+  "Element_2": "Zn",
+  "Electronegativity_2": "1.65",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [],
+  "Ionic_radius_1": [
+   0.26
+  ],
+  "Ionic_radius_2": [
+   0.6
+  ],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "68323",
+  "Formula": "Zn Si As2",
+  "Cell_length_A": "5.6086(8)",
+  "Cell_length_C": "10.8780(16)",
+  "Element_0": "As",
+  "Electronegativity_0": "2.18",
+  "Element_1": "Si",
+  "Electronegativity_1": "1.90",
+  "Element_2": "Zn",
+  "Electronegativity_2": "1.65",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [],
+  "Ionic_radius_1": [
+   0.26
+  ],
+  "Ionic_radius_2": [
+   0.6
+  ],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "648142",
+  "Formula": "Si Zn P2",
+  "Cell_length_A": "5.399",
+  "Cell_length_C": "10.435",
+  "Element_0": "P",
+  "Electronegativity_0": "2.19",
+  "Element_1": "Si",
+  "Electronegativity_1": "1.90",
+  "Element_2": "Zn",
+  "Electronegativity_2": "1.65",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [],
+  "Ionic_radius_1": [],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "68325",
+  "Formula": "Zn Sn As2",
+  "Cell_length_A": "5.8466(4)",
+  "Cell_length_C": "11.7037(11)",
+  "Element_0": "As",
+  "Electronegativity_0": "2.18",
+  "Element_1": "Sn",
+  "Electronegativity_1": "1.96",
+  "Element_2": "Zn",
+  "Electronegativity_2": "1.65",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [],
+  "Ionic_radius_1": [
+   0.55
+  ],
+  "Ionic_radius_2": [
+   0.6
+  ],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "77803",
+  "Formula": "Zn Sn P2",
+  "Cell_length_A": "5.65",
+  "Cell_length_C": "11.3",
+  "Element_0": "P",
+  "Electronegativity_0": "2.19",
+  "Element_1": "Sn",
+  "Electronegativity_1": "1.96",
+  "Element_2": "Zn",
+  "Electronegativity_2": "1.65",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [],
+  "Ionic_radius_1": [
+   0.55
+  ],
+  "Ionic_radius_2": [
+   0.6
+  ],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "42669",
+  "Formula": "Zn Sn Sb2",
+  "Cell_length_A": "6.275",
+  "Cell_length_C": "12.55",
+  "Element_0": "Sb",
+  "Electronegativity_0": "2.05",
+  "Element_1": "Sn",
+  "Electronegativity_1": "1.96",
+  "Element_2": "Zn",
+  "Electronegativity_2": "1.65",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [],
+  "Ionic_radius_1": [
+   0.55
+  ],
+  "Ionic_radius_2": [
+   0.6
+  ],
+  "Ionic_radius_3": null
+ },
+ {
+  "ID": "651586",
+  "Formula": "Sb2 Sn Zn",
+  "Cell_length_A": "6.273",
+  "Cell_length_C": "12.546",
+  "Element_0": "Sb",
+  "Electronegativity_0": "2.05",
+  "Element_1": "Sn",
+  "Electronegativity_1": "1.96",
+  "Element_2": "Zn",
+  "Electronegativity_2": "1.65",
+  "Element_3": null,
+  "Electronegativity_3": null,
+  "Ionic_radius_()": null,
+  "Ionic_radius_0": [],
+  "Ionic_radius_1": [],
+  "Ionic_radius_2": [],
+  "Ionic_radius_3": null
+ }
+]

@@ -1,0 +1,1289 @@
+[
+    {
+        "_database_code_ICSD": [
+            "52562"
+        ],
+        "_chemical_formula_structural": [
+            "(Ag1.5 Cu0.5) In2 Te4"
+        ],
+        "_cell_length_a": [
+            "6.3879"
+        ],
+        "_cell_length_b": [
+            "6.3879"
+        ],
+        "_cell_length_c": [
+            "12.5969"
+        ],
+        "notation": "Ag1 Ag1+ 4 a 0 0 0 0.75 0 \nCu1 Cu1+ 4 a 0 0 0 0.25 0 \nIn1 In3+ 4 b 0 0 0.5 1. 0 \nTe1 Te2- 8 d 0.2571 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "28744"
+        ],
+        "_chemical_formula_structural": [
+            "Ag Al S2"
+        ],
+        "_cell_length_a": [
+            "5.695(5)"
+        ],
+        "_cell_length_b": [
+            "5.695(5)"
+        ],
+        "_cell_length_c": [
+            "10.26(1)"
+        ],
+        "notation": "Ag1 Ag1+ 4 a 0 0 0 1. 0 \nAl1 Al3+ 4 b 0 0 0.5 1. 0 \nS1 S2- 8 d 0.3 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "28745"
+        ],
+        "_chemical_formula_structural": [
+            "Ag Al Se2"
+        ],
+        "_cell_length_a": [
+            "5.956(5)"
+        ],
+        "_cell_length_b": [
+            "5.956(5)"
+        ],
+        "_cell_length_c": [
+            "10.75(1)"
+        ],
+        "notation": "Ag1 Ag1+ 4 a 0 0 0 1. 0 \nAl1 Al3+ 4 b 0 0 0.5 1. 0 \nSe1 Se2- 8 d 0.27 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "28746"
+        ],
+        "_chemical_formula_structural": [
+            "Ag Al Te2"
+        ],
+        "_cell_length_a": [
+            "6.296(5)"
+        ],
+        "_cell_length_b": [
+            "6.296(5)"
+        ],
+        "_cell_length_c": [
+            "11.83(1)"
+        ],
+        "notation": "Ag1 Ag1+ 4 a 0 0 0 1. 0 \nAl1 Al3+ 4 b 0 0 0.5 1. 0 \nTe1 Te2- 8 d 0.26 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "56263"
+        ],
+        "_chemical_formula_structural": [
+            "Ag Fe S2"
+        ],
+        "_cell_length_a": [
+            "5.66"
+        ],
+        "_cell_length_b": [
+            "5.66"
+        ],
+        "_cell_length_c": [
+            "10.3"
+        ],
+        "notation": "Ag1 Ag1+ 4 a 0 0 0 1. 0 \nFe1 Fe3+ 4 b 0 0 0.5 1. 0 \nS1 S2- 8 d 0.29 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "250110"
+        ],
+        "_chemical_formula_structural": [
+            "Ag (Ga0.665 In0.335) Se2"
+        ],
+        "_cell_length_a": [
+            "6.0138(11)"
+        ],
+        "_cell_length_b": [
+            "6.0138(11)"
+        ],
+        "_cell_length_c": [
+            "11.1238(18)"
+        ],
+        "notation": "Ag1 Ag1+ 4 a 0 0 0 1. 0 \nIn1 In3+ 4 b 0 0 0.5 0.33(2) 0 \nGa1 Ga3+ 4 b 0 0 0.5 0.67 0 \nSe1 Se2- 8 d 0.2737(9) 0.75 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "250111"
+        ],
+        "_chemical_formula_structural": [
+            "Ag (Ga0.82 In0.18) Se2"
+        ],
+        "_cell_length_a": [
+            "5.9889(9)"
+        ],
+        "_cell_length_b": [
+            "5.9889(9)"
+        ],
+        "_cell_length_c": [
+            "11.0328(22)"
+        ],
+        "notation": "Ag1 Ag1+ 4 a 0 0 0 1. 0 \nIn1 In3+ 4 b 0 0 0.5 0.18(2) 0 \nGa1 Ga3+ 4 b 0 0 0.5 0.82 0 \nSe1 Se2- 8 d 0.7271(9) 0.75 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "42125"
+        ],
+        "_chemical_formula_structural": [
+            "Ag Ga S2"
+        ],
+        "_cell_length_a": [
+            "5.754"
+        ],
+        "_cell_length_b": [
+            "5.754"
+        ],
+        "_cell_length_c": [
+            "10.295"
+        ],
+        "notation": "Ag1 Ag1+ 4 a 0 0 0 1. 0 \nGa1 Ga3+ 4 b 0 0 0.5 1. 0 \nS1 S2- 8 d 0.304(6) 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "28748"
+        ],
+        "_chemical_formula_structural": [
+            "Ag Ga Se2"
+        ],
+        "_cell_length_a": [
+            "5.973(5)"
+        ],
+        "_cell_length_b": [
+            "5.973(5)"
+        ],
+        "_cell_length_c": [
+            "10.88(1)"
+        ],
+        "notation": "Ag1 Ag1+ 4 a 0 0 0 1. 0 \nGa1 Ga3+ 4 b 0 0 0.5 1. 0 \nSe1 Se2- 8 d 0.27 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "28749"
+        ],
+        "_chemical_formula_structural": [
+            "Ag Ga Te2"
+        ],
+        "_cell_length_a": [
+            "6.288(5)"
+        ],
+        "_cell_length_b": [
+            "6.288(5)"
+        ],
+        "_cell_length_c": [
+            "11.94(1)"
+        ],
+        "notation": "Ag1 Ag1+ 4 a 0 0 0 1. 0 \nGa1 Ga3+ 4 b 0 0 0.5 1. 0 \nTe1 Te2- 8 d 0.26 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "71007"
+        ],
+        "_chemical_formula_structural": [
+            "Ag Ga Te2"
+        ],
+        "_cell_length_a": [
+            "6.30(2)"
+        ],
+        "_cell_length_b": [
+            "6.30(2)"
+        ],
+        "_cell_length_c": [
+            "11.94(7)"
+        ],
+        "notation": "Ag1 Ag1+ 4 a 0 0 0 1. 0 \nGa1 Ga3+ 4 b 0 0 0.5 1. 0 \nTe1 Te2- 8 d 0.2597 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "28750"
+        ],
+        "_chemical_formula_structural": [
+            "Ag In S2"
+        ],
+        "_cell_length_a": [
+            "5.816(5)"
+        ],
+        "_cell_length_b": [
+            "5.816(5)"
+        ],
+        "_cell_length_c": [
+            "11.17(1)"
+        ],
+        "notation": "Ag1 Ag1+ 4 a 0 0 0 1. 0 \nIn1 In3+ 4 b 0 0 0.5 1. 0 \nS1 S2- 8 d 0.25 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "28751"
+        ],
+        "_chemical_formula_structural": [
+            "Ag In Se2"
+        ],
+        "_cell_length_a": [
+            "6.090(5)"
+        ],
+        "_cell_length_b": [
+            "6.090(5)"
+        ],
+        "_cell_length_c": [
+            "11.67(1)"
+        ],
+        "notation": "Ag1 Ag1+ 4 a 0 0 0 1. 0 \nIn1 In3+ 4 b 0 0 0.5 1. 0 \nSe1 Se2- 8 d 0.25 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "28752"
+        ],
+        "_chemical_formula_structural": [
+            "Ag In Te2"
+        ],
+        "_cell_length_a": [
+            "6.406(5)"
+        ],
+        "_cell_length_b": [
+            "6.406(5)"
+        ],
+        "_cell_length_c": [
+            "12.56(1)"
+        ],
+        "notation": "Ag1 Ag1+ 4 a 0 0 0 1. 0 \nIn1 In3+ 4 b 0 0 0.5 1. 0 \nTe1 Te2- 8 d 0.25 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "92126"
+        ],
+        "_chemical_formula_structural": [
+            "Ag In Te2"
+        ],
+        "_cell_length_a": [
+            "6.262(3)"
+        ],
+        "_cell_length_b": [
+            "6.262(3)"
+        ],
+        "_cell_length_c": [
+            "12.897(2)"
+        ],
+        "notation": "Ag1 Ag1+ 4 a 0 0 0 1. 0 \nIn1 In3+ 4 b 0 0 0.5 1. 0 \nTe1 Te2- 8 d 0.27 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "28733"
+        ],
+        "_chemical_formula_structural": [
+            "Cu Al S2"
+        ],
+        "_cell_length_a": [
+            "5.312(5)"
+        ],
+        "_cell_length_b": [
+            "5.312(5)"
+        ],
+        "_cell_length_c": [
+            "10.42(1)"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nAl1 Al3+ 4 b 0 0 0.5 1. 0 \nS1 S2- 8 d 0.27 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "42124"
+        ],
+        "_chemical_formula_structural": [
+            "Cu Al S2"
+        ],
+        "_cell_length_a": [
+            "5.3336"
+        ],
+        "_cell_length_b": [
+            "5.3336"
+        ],
+        "_cell_length_c": [
+            "10.444"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nAl1 Al3+ 4 b 0 0 0.5 1. 0 \nS1 S2- 8 d 0.268 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "28734"
+        ],
+        "_chemical_formula_structural": [
+            "Cu Al Se2"
+        ],
+        "_cell_length_a": [
+            "5.617(5)"
+        ],
+        "_cell_length_b": [
+            "5.617(5)"
+        ],
+        "_cell_length_c": [
+            "10.922(10)"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nAl1 Al3+ 4 b 0 0 0.5 1. 0 \nSe1 Se2- 8 d 0.26 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "28735"
+        ],
+        "_chemical_formula_structural": [
+            "Cu Al Te2"
+        ],
+        "_cell_length_a": [
+            "5.976(5)"
+        ],
+        "_cell_length_b": [
+            "5.976(5)"
+        ],
+        "_cell_length_c": [
+            "11.804(10)"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nAl1 Al3+ 4 b 0 0 0.5 1. 0 \nTe1 Te2- 8 d 0.25 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "44111"
+        ],
+        "_chemical_formula_structural": [
+            "Be C N2"
+        ],
+        "_cell_length_a": [
+            "3.71"
+        ],
+        "_cell_length_b": [
+            "3.71"
+        ],
+        "_cell_length_c": [
+            "7.272"
+        ],
+        "notation": "Be1 Be2+ 4 a 0 0 0 1. 0 \nC1 C4+ 4 b 0 0 0.5 1. 0 \nN1 N3- 8 d 0.3 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "44112"
+        ],
+        "_chemical_formula_structural": [
+            "Be Si N2"
+        ],
+        "_cell_length_a": [
+            "4.1"
+        ],
+        "_cell_length_b": [
+            "4.1"
+        ],
+        "_cell_length_c": [
+            "8.364"
+        ],
+        "notation": "Be1 Be2+ 4 a 0 0 0 1. 0 \nSi1 Si4+ 4 b 0 0 0.5 1. 0 \nN1 N3- 8 d 0.39 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "42098"
+        ],
+        "_chemical_formula_structural": [
+            "Cd Ge As2"
+        ],
+        "_cell_length_a": [
+            "5.9432(1)"
+        ],
+        "_cell_length_b": [
+            "5.9432"
+        ],
+        "_cell_length_c": [
+            "11.2163(3)"
+        ],
+        "notation": "Cd1 Cd2+ 4 a 0 0 0 1. 0 \nGe1 Ge4+ 4 b 0 0 0.5 1. 0 \nAs1 As3- 8 d 0.27851(16) 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "153593"
+        ],
+        "_chemical_formula_structural": [
+            "Cd Ge As2"
+        ],
+        "_cell_length_a": [
+            "5.944(1)"
+        ],
+        "_cell_length_b": [
+            "5.944(1)"
+        ],
+        "_cell_length_c": [
+            "11.211(2)"
+        ],
+        "notation": "Cd1 Cd2+ 4 a 0. 0. 0. 1. 0 \nGe1 Ge4+ 4 b 0.5 0.5 0. 1. 0 \nAs1 As3- 8 d 0.2783 0.750 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "42895"
+        ],
+        "_chemical_formula_structural": [
+            "Cd Ge P2"
+        ],
+        "_cell_length_a": [
+            "5.74"
+        ],
+        "_cell_length_b": [
+            "5.74"
+        ],
+        "_cell_length_c": [
+            "10.775"
+        ],
+        "notation": "Cd1 Cd2+ 4 a 0 0 0 1. 0 \nGe1 Ge4+ 4 b 0 0 0.5 1. 0 \nP1 P3- 8 d 0.283 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "44260"
+        ],
+        "_chemical_formula_structural": [
+            "Cd Si P2"
+        ],
+        "_cell_length_a": [
+            "5.678"
+        ],
+        "_cell_length_b": [
+            "5.678"
+        ],
+        "_cell_length_c": [
+            "10.436"
+        ],
+        "notation": "Cd1 Cd2+ 4 a 0 0 0 1. 0 \nSi1 Si4+ 4 b 0 0 0.5 1. 0 \nP1 P3- 8 d 0.297 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "43358"
+        ],
+        "_chemical_formula_structural": [
+            "Cd Sn As2"
+        ],
+        "_cell_length_a": [
+            "6.093(1)"
+        ],
+        "_cell_length_b": [
+            "6.093(1)"
+        ],
+        "_cell_length_c": [
+            "11.936(1)"
+        ],
+        "notation": "Cd1 Cd2+ 4 a 0 0 0 1. 0 \nSn1 Sn4+ 4 b 0 0 0.5 1. 0 \nAs1 As3- 8 d 0.239 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "44258"
+        ],
+        "_chemical_formula_structural": [
+            "Cd Sn As2"
+        ],
+        "_cell_length_a": [
+            "6.094"
+        ],
+        "_cell_length_b": [
+            "6.094"
+        ],
+        "_cell_length_c": [
+            "11.92"
+        ],
+        "notation": "Cd1 Cd2+ 4 a 0 0 0 1. 0 \nSn1 Sn4+ 4 b 0 0 0.5 1. 0 \nAs1 As3- 8 d 0.261 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "44257"
+        ],
+        "_chemical_formula_structural": [
+            "Cd Sn P2"
+        ],
+        "_cell_length_a": [
+            "5.9"
+        ],
+        "_cell_length_b": [
+            "5.9"
+        ],
+        "_cell_length_c": [
+            "11.517"
+        ],
+        "notation": "Cd1 Cd2+ 4 a 0 0 0 1. 0 \nSn1 Sn4+ 4 b 0 0 0.5 1. 0 \nP1 P3- 8 d 0.265 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "44259"
+        ],
+        "_chemical_formula_structural": [
+            "Cd Sn Sb2"
+        ],
+        "_cell_length_a": [
+            "6.479"
+        ],
+        "_cell_length_b": [
+            "6.479"
+        ],
+        "_cell_length_c": [
+            "12.764"
+        ],
+        "notation": "Cd1 Cd2+ 4 a 0 0 0 1. 0 \nSn1 Sn4+ 4 b 0 0 0.5 1. 0 \nSb1 Sb3- 8 d 0.24 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "28734"
+        ],
+        "_chemical_formula_structural": [
+            "Cu Al Se2"
+        ],
+        "_cell_length_a": [
+            "5.617(5)"
+        ],
+        "_cell_length_b": [
+            "5.617(5)"
+        ],
+        "_cell_length_c": [
+            "10.922(10)"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nAl1 Al3+ 4 b 0 0 0.5 1. 0 \nSe1 Se2- 8 d 0.26 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "2518"
+        ],
+        "_chemical_formula_structural": [
+            "Cu Fe S2"
+        ],
+        "_cell_length_a": [
+            "5.289(1)"
+        ],
+        "_cell_length_b": [
+            "5.289(1)"
+        ],
+        "_cell_length_c": [
+            "10.423(1)"
+        ],
+        "notation": "Cu1 Cu2+ 4 a 0 0 0 1. 0 \nFe1 Fe2+ 4 b 0 0 0.5 1. 0 \nS1 S2- 8 d 0.2574(2) 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "30289"
+        ],
+        "_chemical_formula_structural": [
+            "Cu Fe S2"
+        ],
+        "_cell_length_a": [
+            "5.25"
+        ],
+        "_cell_length_b": [
+            "5.25"
+        ],
+        "_cell_length_c": [
+            "10.32"
+        ],
+        "notation": "Cu1 Cu2+ 4 b 0 0 0.5 1. 0 \nFe1 Fe2+ 4 a 0 0 0 1. 0 \nS1 S2- 8 d 0.23(1) 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "60166"
+        ],
+        "_chemical_formula_structural": [
+            "Cu (Fe S2)"
+        ],
+        "_cell_length_a": [
+            "5.289"
+        ],
+        "_cell_length_b": [
+            "5.289"
+        ],
+        "_cell_length_c": [
+            "10.423"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nS1 S2- 8 d 0.23 0.25 0.125 1. 0 \nFe1 Fe3+ 4 b 0 0 0.5 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "80094"
+        ],
+        "_chemical_formula_structural": [
+            "Cu Fe S2"
+        ],
+        "_cell_length_a": [
+            "5.2864(8)"
+        ],
+        "_cell_length_b": [
+            "5.2864(8)"
+        ],
+        "_cell_length_c": [
+            "10.4102(8)"
+        ],
+        "notation": "Cu1 Cu2+ 4 a 0 0 0 1. 0 \nFe1 Fe2+ 4 b 0 0 0.5 1. 0 \nS1 S2- 8 d 0.257(1) 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "80095"
+        ],
+        "_chemical_formula_structural": [
+            "Cu Fe S2"
+        ],
+        "_cell_length_a": [
+            "5.277(7)"
+        ],
+        "_cell_length_b": [
+            "5.277(7)"
+        ],
+        "_cell_length_c": [
+            "10.441(3)"
+        ],
+        "notation": "Cu1 Cu2+ 4 a 0 0 0 1. 0 \nFe1 Fe2+ 4 b 0 0 0.5 1. 0 \nS1 S2- 8 d 0.256(3) 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "74459"
+        ],
+        "_chemical_formula_structural": [
+            "Cu (Ga0.2 In0.8) Te2"
+        ],
+        "_cell_length_a": [
+            "6.1531(1)"
+        ],
+        "_cell_length_b": [
+            "6.1531(1)"
+        ],
+        "_cell_length_c": [
+            "12.3073(9)"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nGa1 Ga3+ 4 b 0 0 0.5 0.2 0 \nIn1 In3+ 4 b 0 0 0.5 0.8 0 \nTe1 Te2- 8 d 0.2255(4) 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "74458"
+        ],
+        "_chemical_formula_structural": [
+            "Cu (Ga0.5 In0.5) Te2"
+        ],
+        "_cell_length_a": [
+            "6.1009(2)"
+        ],
+        "_cell_length_b": [
+            "6.1009(2)"
+        ],
+        "_cell_length_c": [
+            "12.1979(6)"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nGa1 Ga3+ 4 b 0 0 0.5 0.5 0 \nIn1 In3+ 4 b 0 0 0.5 0.5 0 \nTe1 Te2- 8 d 0.2279(3) 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "74457"
+        ],
+        "_chemical_formula_structural": [
+            "Cu (Ga0.8 In0.2) Te2"
+        ],
+        "_cell_length_a": [
+            "6.0543(1)"
+        ],
+        "_cell_length_b": [
+            "6.0543(1)"
+        ],
+        "_cell_length_c": [
+            "12.0379(4)"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nGa1 Ga3+ 4 b 0 0 0.5 0.8 0 \nIn1 In3+ 4 b 0 0 0.5 0.2 0 \nTe1 Te2- 8 d 0.235(1) 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "42126"
+        ],
+        "_chemical_formula_structural": [
+            "Cu Ga S2"
+        ],
+        "_cell_length_a": [
+            "5.351"
+        ],
+        "_cell_length_b": [
+            "5.351"
+        ],
+        "_cell_length_c": [
+            "10.48"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nGa1 Ga3+ 4 b 0 0 0.5 1. 0 \nS1 S2- 8 d 0.272 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "66864"
+        ],
+        "_chemical_formula_structural": [
+            "Cu Ga S2"
+        ],
+        "_cell_length_a": [
+            "5.34741(7)"
+        ],
+        "_cell_length_b": [
+            "5.34741(7)"
+        ],
+        "_cell_length_c": [
+            "10.47429(6)"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nGa1 Ga3+ 4 b 0 0 0.5 1. 0 \nS1 S2- 8 d 0.25385(35) 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "41809"
+        ],
+        "_chemical_formula_structural": [
+            "Cu Ga Se2"
+        ],
+        "_cell_length_a": [
+            "5.614(1)"
+        ],
+        "_cell_length_b": [
+            "5.614(1)"
+        ],
+        "_cell_length_c": [
+            "11.022(1)"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nGa1 Ga3+ 4 b 0 0 0.5 1. 0 \nSe1 Se2- 8 d 0.259(4) 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "42097"
+        ],
+        "_chemical_formula_structural": [
+            "Cu Ga Se2"
+        ],
+        "_cell_length_a": [
+            "5.5963(1)"
+        ],
+        "_cell_length_b": [
+            "5.5963"
+        ],
+        "_cell_length_c": [
+            "11.0036(2)"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nGa1 Ga3+ 4 b 0 0 0.5 1. 0 \nSe1 Se2- 8 d 0.24231(21) 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "67591"
+        ],
+        "_chemical_formula_structural": [
+            "Cu Ga Te2"
+        ],
+        "_cell_length_a": [
+            "6.02348(7)"
+        ],
+        "_cell_length_b": [
+            "6.02348(7)"
+        ],
+        "_cell_length_c": [
+            "11.93979(2)"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nGa1 Ga3+ 4 b 0 0 0.5 1. 0 \nTe1 Te2- 8 d 0.256(6) 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "74456"
+        ],
+        "_chemical_formula_structural": [
+            "Cu Ga Te2"
+        ],
+        "_cell_length_a": [
+            "6.0235(1)"
+        ],
+        "_cell_length_b": [
+            "6.0235(1)"
+        ],
+        "_cell_length_c": [
+            "11.9398(2)"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nGa1 Ga3+ 4 b 0 0 0.5 1. 0 \nTe1 Te2- 8 d 0.2566(6) 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "42127"
+        ],
+        "_chemical_formula_structural": [
+            "Cu In S2"
+        ],
+        "_cell_length_a": [
+            "5.523"
+        ],
+        "_cell_length_b": [
+            "5.523"
+        ],
+        "_cell_length_c": [
+            "11.12"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nIn1 In3+ 4 b 0 0 0.5 1. 0 \nS1 S2- 8 d 0.214(7) 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "66865"
+        ],
+        "_chemical_formula_structural": [
+            "Cu In S2"
+        ],
+        "_cell_length_a": [
+            "5.52279(7)"
+        ],
+        "_cell_length_b": [
+            "5.52279(7)"
+        ],
+        "_cell_length_c": [
+            "11.13295(22)"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nIn1 In3+ 4 b 0 0 0.5 1. 0 \nS1 S2- 8 d 0.22946(36) 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "68334"
+        ],
+        "_chemical_formula_structural": [
+            "Cu In Se2"
+        ],
+        "_cell_length_a": [
+            "5.784"
+        ],
+        "_cell_length_b": [
+            "5.784"
+        ],
+        "_cell_length_c": [
+            "11.57"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nIn1 In3+ 4 b 0.5 0.5 0 1. 0 \nSe1 Se2- 8 d 0.2499 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "70051"
+        ],
+        "_chemical_formula_structural": [
+            "Cu In Se2"
+        ],
+        "_cell_length_a": [
+            "5.782(1)"
+        ],
+        "_cell_length_b": [
+            "5.782(1)"
+        ],
+        "_cell_length_c": [
+            "11.620(1)"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nIn1 In3+ 4 b 0 0 0.5 1. 0 \nSe1 Se2- 8 d 0.235 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "73351"
+        ],
+        "_chemical_formula_structural": [
+            "Cu In Se2"
+        ],
+        "_cell_length_a": [
+            "5.7810(13)"
+        ],
+        "_cell_length_b": [
+            "5.7810(13)"
+        ],
+        "_cell_length_c": [
+            "11.6422(26)"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nIn1 In3+ 4 b 0 0 0.5 1. 0 \nSe1 Se2- 8 d 0.2260(2) 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "92043"
+        ],
+        "_chemical_formula_structural": [
+            "Cu In Se Te"
+        ],
+        "_cell_length_a": [
+            "5.987(1)"
+        ],
+        "_cell_length_b": [
+            "5.987(1)"
+        ],
+        "_cell_length_c": [
+            "11.979(4)"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nIn1 In3+ 4 b 0 0 0.5 1. 0 \nSe1 Se2- 8 d 0.2498 0.25 0.125 0.5 0 \nTe1 Te2- 8 d 0.2498 0.25 0.125 0.5 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "73352"
+        ],
+        "_chemical_formula_structural": [
+            "Cu In Te2"
+        ],
+        "_cell_length_a": [
+            "6.1944(20)"
+        ],
+        "_cell_length_b": [
+            "6.1944(20)"
+        ],
+        "_cell_length_c": [
+            "12.4157(40)"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nIn1 In3+ 4 b 0 0 0.5 1. 0 \nTe1 Te2- 8 d 0.2220(1) 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "74460"
+        ],
+        "_chemical_formula_structural": [
+            "Cu In Te2"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nIn1 In3+ 4 b 0 0 0.5 1. 0 \nTe1 Te2- 8 d 0.2136(5) 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "28742"
+        ],
+        "_chemical_formula_structural": [
+            "Cu Tl S2"
+        ],
+        "_cell_length_a": [
+            "5.591(5)"
+        ],
+        "_cell_length_b": [
+            "5.591(5)"
+        ],
+        "_cell_length_c": [
+            "11.193(10)"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nTl1 Tl3+ 4 b 0 0 0.5 1. 0 \nS1 S2- 8 d 0.19 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "28743"
+        ],
+        "_chemical_formula_structural": [
+            "Cu Tl Se2"
+        ],
+        "_cell_length_a": [
+            "5.844(5)"
+        ],
+        "_cell_length_b": [
+            "5.844(5)"
+        ],
+        "_cell_length_c": [
+            "11.623(10)"
+        ],
+        "notation": "Cu1 Cu1+ 4 a 0 0 0 1. 0 \nTl1 Tl3+ 4 b 0 0 0.5 1. 0 \nSe1 Se2- 8 d 0.23 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "280226"
+        ],
+        "_chemical_formula_structural": [
+            "Al Li Te2"
+        ],
+        "_cell_length_a": [
+            "6.3517(4)"
+        ],
+        "_cell_length_b": [
+            "6.3517(4)"
+        ],
+        "_cell_length_c": [
+            "11.6904(9)"
+        ],
+        "notation": "Te1 Te2- 8 d 0.23077(10) 0.25 0.125 1. 0 \nAl1 Al3+ 4 a 0 0 0 1. 0 \nLi1 Li1+ 4 b 0.5 0.5 0 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "56532"
+        ],
+        "_chemical_formula_structural": [
+            "Li In Se2"
+        ],
+        "_cell_length_a": [
+            "5.807(8)"
+        ],
+        "_cell_length_b": [
+            "5.807"
+        ],
+        "_cell_length_c": [
+            "11.810(31)"
+        ],
+        "notation": "In1 In3+ 4 a 0 0 0 1. 0 \nLi1 Li1+ 4 b 0 0 0.5 1. 0 \nSe2 Se2- 8 d 0.262 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "59112"
+        ],
+        "_chemical_formula_structural": [
+            "Li In Te2"
+        ],
+        "_cell_length_a": [
+            "6.398(2)"
+        ],
+        "_cell_length_b": [
+            "6.398(2)"
+        ],
+        "_cell_length_c": [
+            "12.460(4)"
+        ],
+        "notation": "Te1 Te2- 8 d 0.2441(1) 0.25 0.125 1. 0 \nIn1 In3+ 4 b 0 0 0.5 1. 0 \nLi1 Li1+ 4 a 0 0 0 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "66007"
+        ],
+        "_chemical_formula_structural": [
+            "Li P N2"
+        ],
+        "_cell_length_a": [
+            "4.575(2)"
+        ],
+        "_cell_length_b": [
+            "4.575(2)"
+        ],
+        "_cell_length_c": [
+            "7.118(3)"
+        ],
+        "notation": "Li1 Li1+ 4 b 0 0 0.5 1. 0 \nP1 P5+ 4 a 0 0 0 1. 0 \nN1 N3- 8 d 0.1699(31) 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "44110"
+        ],
+        "_chemical_formula_structural": [
+            "Mg C N2"
+        ],
+        "_cell_length_a": [
+            "4.11"
+        ],
+        "_cell_length_b": [
+            "4.11"
+        ],
+        "_cell_length_c": [
+            "7.562"
+        ],
+        "notation": "Mg1 Mg2+ 4 a 0 0 0 1. 0 \nC1 C4+ 4 b 0 0 0.5 1. 0 \nN1 N3- 8 d 0.32 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "44109"
+        ],
+        "_chemical_formula_structural": [
+            "Mg Si N2"
+        ],
+        "_cell_length_a": [
+            "4.44"
+        ],
+        "_cell_length_b": [
+            "4.44"
+        ],
+        "_cell_length_c": [
+            "8.702"
+        ],
+        "notation": "Mg1 Mg2+ 4 a 0 0 0 1. 0 \nSi1 Si4+ 4 b 0 0 0.5 1. 0 \nN1 N3- 8 d 0.31 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "44108"
+        ],
+        "_chemical_formula_structural": [
+            "Mg Si P2"
+        ],
+        "_cell_length_a": [
+            "5.64"
+        ],
+        "_cell_length_b": [
+            "5.64"
+        ],
+        "_cell_length_c": [
+            "11.054"
+        ],
+        "notation": "Mg1 Mg2+ 4 a 0 0 0 1. 0 \nSi1 Si4+ 4 b 0 0 0.5 1. 0 \nP1 P3- 8 d 0.3 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "43357"
+        ],
+        "_chemical_formula_structural": [
+            "Zn Sn As2"
+        ],
+        "_cell_length_a": [
+            "5.852(1)"
+        ],
+        "_cell_length_b": [
+            "5.852(1)"
+        ],
+        "_cell_length_c": [
+            "11.705(1)"
+        ],
+        "notation": "Zn1 Zn2+ 4 a 0 0 0 1. 0 \nSn1 Sn4+ 4 b 0 0 0.5 1. 0 \nAs1 As3- 8 d 0.239 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "68324"
+        ],
+        "_chemical_formula_structural": [
+            "Zn Ge As2"
+        ],
+        "_cell_length_a": [
+            "5.6676(5)"
+        ],
+        "_cell_length_b": [
+            "5.6676(5)"
+        ],
+        "_cell_length_c": [
+            "11.1359(12)"
+        ],
+        "notation": "Zn1 Zn2+ 4 a 0 0 0 1. 0 \nGe1 Ge4+ 4 b 0 0 0.5 1. 0 \nAs1 As3- 8 d 0.25467(11) 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "44261"
+        ],
+        "_chemical_formula_structural": [
+            "Zn Ge P2"
+        ],
+        "_cell_length_a": [
+            "5.465"
+        ],
+        "_cell_length_b": [
+            "5.465"
+        ],
+        "_cell_length_c": [
+            "10.766"
+        ],
+        "notation": "Zn1 Zn2+ 4 a 0 0 0 1. 0 \nGe1 Ge4+ 4 b 0 0 0.5 1. 0 \nP1 P3- 8 d 0.258 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "44262"
+        ],
+        "_chemical_formula_structural": [
+            "Zn Si As2"
+        ],
+        "_cell_length_a": [
+            "5.61"
+        ],
+        "_cell_length_b": [
+            "5.61"
+        ],
+        "_cell_length_c": [
+            "10.883"
+        ],
+        "notation": "Zn1 Zn2+ 4 a 0 0 0 1. 0 \nSi1 Si4+ 4 b 0 0 0.5 1. 0 \nAs1 As3- 8 d 0.266 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "68323"
+        ],
+        "_chemical_formula_structural": [
+            "Zn Si As2"
+        ],
+        "_cell_length_a": [
+            "5.6086(8)"
+        ],
+        "_cell_length_b": [
+            "5.6086(8)"
+        ],
+        "_cell_length_c": [
+            "10.8780(16)"
+        ],
+        "notation": "Zn1 Zn2+ 4 a 0 0 0 1. 0 \nSi1 Si4+ 4 b 0 0 0.5 1. 0 \nAs1 As3- 8 d 0.26556(7) 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "77801"
+        ],
+        "_chemical_formula_structural": [
+            "Si Zn P2"
+        ],
+        "_cell_length_a": [
+            "5.4001(5)"
+        ],
+        "_cell_length_b": [
+            "5.4001"
+        ],
+        "_cell_length_c": [
+            "10.4359(26)"
+        ],
+        "notation": "Zn1 Zn2+ 4 a 0 0 0 1. 0 \nSi1 Si4+ 4 b 0 0 0.5 1. 0 \nP1 P3- 8 d 0.26716 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "648142"
+        ],
+        "_chemical_formula_structural": [
+            "Si Zn P2"
+        ],
+        "_cell_length_a": [
+            "5.399"
+        ],
+        "_cell_length_b": [
+            "5.399"
+        ],
+        "_cell_length_c": [
+            "10.435"
+        ],
+        "notation": "P1 P0+ 8 d 0.270 0.25 0.125 1 0 \nSi1 Si0+ 4 b 0 0 0.5 1 0 \nZn1 Zn0+ 4 a 0 0 0 1 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "68325"
+        ],
+        "_chemical_formula_structural": [
+            "Zn Sn As2"
+        ],
+        "_cell_length_a": [
+            "5.8466(4)"
+        ],
+        "_cell_length_b": [
+            "5.8466(4)"
+        ],
+        "_cell_length_c": [
+            "11.7037(11)"
+        ],
+        "notation": "Zn1 Zn2+ 4 a 0 0 0 1. 0 \nSn1 Sn4+ 4 b 0 0 0.5 1. 0 \nAs1 As3- 8 d 0.23235(19) 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "77803"
+        ],
+        "_chemical_formula_structural": [
+            "Zn Sn P2"
+        ],
+        "_cell_length_a": [
+            "5.65"
+        ],
+        "_cell_length_b": [
+            "5.65"
+        ],
+        "_cell_length_c": [
+            "11.3"
+        ],
+        "notation": "Zn1 Zn2+ 4 a 0 0 0 1. 0 \nSn1 Sn4+ 4 b 0 0 0.5 1. 0 \nP1 P3- 8 d 0.25 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "42669"
+        ],
+        "_chemical_formula_structural": [
+            "Zn Sn Sb2"
+        ],
+        "_cell_length_a": [
+            "6.275"
+        ],
+        "_cell_length_b": [
+            "6.275"
+        ],
+        "_cell_length_c": [
+            "12.55"
+        ],
+        "notation": "Zn1 Zn2+ 4 a 0 0 0 1. 0 \nSn1 Sn4+ 4 b 0 0 0.5 1. 0 \nSb1 Sb3- 8 d 0.228 0.25 0.125 1. 0 \n"
+    },
+    {
+        "_database_code_ICSD": [
+            "651586"
+        ],
+        "_chemical_formula_structural": [
+            "Sb2 Sn Zn"
+        ],
+        "_cell_length_a": [
+            "6.273"
+        ],
+        "_cell_length_b": [
+            "6.273"
+        ],
+        "_cell_length_c": [
+            "12.546"
+        ],
+        "notation": "Sb1 Sb0+ 8 d 0.228 0.25 0.125 1 0 \nSn1 Sn0+ 4 b 0 0 0.5 1 0 \nZn1 Zn0+ 4 a 0 0 0 1 0 \n"
+    }
+]
